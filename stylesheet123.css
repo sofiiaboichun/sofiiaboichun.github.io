@@ -1,0 +1,53 @@
+body 
+{
+	color: black;
+	margin: 0;
+}
+			.MyMain1
+			{
+			    display: flex;
+				align-items: center;
+			}
+			.Image1
+			{
+				background: url(01.jpg) left no-repeat;
+				background-size: contain;
+				display: block;
+				height: 640px;
+				width: 433px;
+			}
+			.Image2
+			{
+				background: url(01.jpg) left no-repeat;
+				background-size: contain;
+				display: block;
+				height: 640px;
+				width: 433px;
+			}
+			.blockList-container1
+			{	
+				font-size: 25px;
+				font-family: century gothic;
+				color: black;
+				width: 50%;
+				margin: auto;
+				text-align: left;
+				background color: white;
+			}
+			.blockList-container1 h2 
+			{
+				text-align: center;
+				margin-block-start: auto;
+			}
+			.block-list1
+			{
+				margin: 0;
+			}
+			.blockList-cooking1
+			{
+				font-size: 25px;
+				font-family: century gothic;
+				color: white;
+				margin: 0 auto;
+				width: 60%;
+			}
