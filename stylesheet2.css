@@ -1,0 +1,7 @@
+			.blockMain2
+			{
+				background: url(3.jpg) no-repeat center center;
+				display: flex;
+				background-size: cover;
+				background-attachment: fixed;
+			}
